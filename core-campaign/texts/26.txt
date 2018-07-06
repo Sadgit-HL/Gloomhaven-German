@@ -1,0 +1,32 @@
+Szenario 26 (D-15): Die uralte Zisterne
+Verbindungen: Gloomhaven
+Voraussetzungen: Wasseratmung (Water Breathing) (Global) oder Durch die Ruinen (Party) ABGESCHLOSSEN
+Ziel: Reinigt alle Wasserpumpen
+Einführung:
+Das Wasser wird dunkel, schwarz wie ein bewölk­ter Nachthimmel. Ihr könnt beim Schwimmen eure Hände nicht vor dem Gesicht sehen, doch ihr macht weiter. Nach einiger Zeit erkennt ihr ein Licht in der Ferne. Es benötigt eure gesamte Anstren­gung, aber schließlich wird das Licht größer und ihr taucht aus einem übelriechenden Teich auf, dankbar, dass ihr wieder frei atmen könnt.
+Die Erleichterung ist jedoch von kurzer Dauer. Der Raum wimmelt von bedrohlichen grünen Massen von Schleimen und Untoten. Ihr schleppt euch auf das trockene Land, schnappt nach Luft und macht eure Waf­fen für einen weiteren Kampf bereit.
+Sonderregeln:
+Fügt als Szenarioeffekt dem Angriffsmodifikator-Stapel jedes Charakters drei Fluch (CURSE)-Karten hinzu.
+(1)
+Weiter folgt ihr den Anzeichen der Verderbnis und kommt schließlich in den letzten Raum des Gewölbes. Ihr hofft, dort eure restlichen Gegner schnell zu überwältigen, doch statt dessen werdet ihr von Grauen erfüllt, als ihr der Szenerie von euch gewahr werdet.
+Vier Wasserrohre stehen senkrecht im hinteren Teil dieses Raumes, die klares Wasser in die Stadt för­dern sollen. An drei dieser Rohre kleben jedoch sich windende schwarze Massen, die das hindurch fließende Wasser vergiften. Als ihr eintretet, lösen sich schwarze Tropfen aus den Massen und verwandelten sich in kleine, knollige Imps mit Mäulern voller Zähne.
+Die Horde an Dämonen und Untoten im Raum ist auch nicht gerade ein willkom­mener Anblick.
+Sonderregeln: 
+Es sind so viele Wasserpumpen wie Charaktere vorhanden, und die Pumpen müssen gereinigt werden, um das Szenario zu gewinnen. Jeder Charakter benachbart zu einer Wasserpumpe kann diese Pumpe reinigen, indem er eine untere Aktion auslässt (und die Karte stattdessen in den Discard-Stapel ablegt). Bei zwei Charakteren sind die Pumpen in den Wasserhexen (a). Bei drei Charakteren sind die Pumpen in den Wasserhexen (a) und (b). Bei vier Charakteren sind die Pumpen in den Wasserhexen (a), (b) und (c). Am Ende jeder Runde beschwört jede Pumpe, die nicht gereinigt wurde, einen normalen Schwarzen Im.
+Epilog:
+Als der Kampf endet, sind die Wände und der Boden noch voller schwarzem Schleim. Nichts davon bewegt sich jedoch mehr, was ein Schritt in die richtige Richtung ist. Jetzt, wo die dunkle Prä­senz fort ist, kann ein einfacher Wischmop ihre Überreste entfernen.
+Ihr nähert euch der Rückwand und wischt mit dem Finger irritiert etwas von dem Schmutz weg. Das meiste löst sich leicht, doch ein gipsartiger schwarzer Streifen verbleibt. Neugierig nehmt ihr einen Ärmel und beginnt, größere Bereiche der Mauer freizulegen, wodurch ihr eine Art von Runensprache enthüllt. Nachdem genug gereinigt ist, seht ihr, dass die Rückwand komplett mit Schriftzeichen bedeckt ist.
+Die Lettern sind euch unbekannt, doch ihr notiert sie und macht euch zurück in die Stadt auf, wo ihr sie zu einem Sprachenexperten in der Universität bringt.
+„Es ist Teil eines Rituals“, sagt ein Brille tragende Quatryl, der eure kru­de Kopie begutachtet. „Mir selbst sind die Spezifika nicht vollständig ver­traut, aber es scheint ein Ritual des 'Welspar', äh, Verder­bens zu sein.“
+„Ich glaube, dass eine solche Verderbnis die Verwen­dung einer Durchleitung erfordern würde.“ Der Qua­tryl sieht sich die Abschrift noch genauer an. „Ah, hier. Etwas, das als 'das Artefakt' bezeichnet wird, welches sich im Tempel der Elemente befindet.“
+Der Quatryl eilt hinüber zu einem Bücherregal, wel­ches vor Texten überquillt. „Ah, interessant. Ich habe davon gehört.“ Er verschwindet hinter einem großen Stapel von Wälzern.
+„Ja! Der Tempel der Elemente.“ Sein Kopf taucht über den Büchern wieder auf. „Der Tempel der Ele­mente soll das Gefäß der Elemente beherbergen, ein uraltes mächtiges Artefakt, welches den elementaren Residuen um uns Gestalt und Macht geben kann.“
+„Das Buch sagt, dass der Tempel gar nicht weit von hier weg ist - irgendwo hinter der Abzweigung im Schlangenkussfluss. Falls ihr der Verderbnis auf den Grund gehen wollt, solltet ihr dort anfangen.“ (22)
+Neuer Ort:
+Tempel der Elemente (22) (K-8)
+Party-Errungenschaft:
+Den Hinweisen folgen
+Belohnungen:
+Jeder 10 Gold
++1 Reputation
++2 Wohlstand 

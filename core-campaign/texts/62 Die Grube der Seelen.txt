@@ -1,0 +1,56 @@
+#62 Die Grube der Seelen
+Verbunden mit: Der schwindende Leuchtturm - #61
+Benötigt: „Der Sündenfall“ – persönliche Quest
+Ziel: Töte die hungrige Seele
+Einführung:
+Ihr müsst etwas suchen, aber nachdem ihr ein großes, umgestürztes Bücherregal beiseitegeschoben 
+haben, finden Ihr eine hölzerne Luke, die in die Dunkelheit führt. 
+Während Ihr die wackelige Holzleiter hinuntersteigt, umgibt euch ein tiefes Gefühl der Vorahnung. 
+Ihr solltet nicht hier unten sein, aber eure Neugierde drängt euch vorwärts. Ihr zündet eine Fackel an 
+und schaut euch um. Als ihr anfangt, euch durch den Raum zu bewegen, hört ihr leises Flüstern aus 
+den Schatten. Etwas knirscht unter euren Füßen, und ihr blickt auf ein verstümmeltes Skelett. Die 
+Knochen sind mit Bissspuren bedeckt und in einem merkwürdigen Muster über den Boden verstreut.
+Plötzlich hallt ein durchdringendes Kreischen durch den Keller. Die Geister sind hier wütend und 
+unruhig. Ihr seht, wie die Knochen anfangen zu klappern und aufstehen. Welch schreckliches 
+Schicksal auch immer die Menschen hier getroffen hat, ihre Seelen konnten nicht fort von hier. Ihr 
+müsst ihnen zur Ruhe verhelfen.
+Sonderregeln:
+Zu Beginn jeder Runde taucht ein Lebendiger Knochen bei (a) und (b) auf. Diese Lebendigen Knochen 
+sind bei zwei Charakteren beide normal, bei drei Charakteren ist (a) Elite und (b) normal. Bei vier 
+Charakteren sind beide Elite. 
+Wenn zehn lebende Knochen getötet wurden, lest ihr (1).
+1:
+Während ihr mehr und mehr der schlurfenden Skelette zerstört, seht ihr, dass ein schwacher 
+Schimmer ihrer Seelen in den hinteren Teil des Raumes driftet, wo sie zusammenfließen und einen 
+großen Haufen von Knochen durchströmen. Wenn genug Skelette zerschmettert und zerschlagen 
+sind, beginnt der glühende Knochenstapel zu vibrieren und sich zu bewegen. 
+"Ihr hättet nicht hierher kommen sollen! Ich labe mich auch im Tod noch immer an meinen Opfern, 
+aber ihr Geist ist alt geworden. Ihr wollt uns hier stören? Meine Gefangenen von ihren 
+phantastischen Ketten befreien? Dann werden euch jetzt diese Ketten binden! "
+Aus dem Knochenstapel nimmt eine Form Gestalt an. Es ist eine gewaltige Ansammlung von 
+Schädeln, Rippen, Oberschenkeln und anderen Knochen, die eine furchterregende, sechsarmige 
+Bestie der Bosheit schaffen.
+Sonderregeln:
+Ein Elite-Lebendiger Knochen erscheint. Das ist die Hungrige Seele. Die hungrige Seele hat (HxC)/2 
+Trefferpunkte (aufgerundet), wobei H die regulären Trefferpunkte eines Elite-Lebendigen Knochen 
+ist. Er hat zusätzlichen Schild +5 zu seinem regulären Schild und fügt +2 Angriff zu allen seinen 
+Angriffen hinzu. Lebendige Knochen werden weiterhin gemäß den vorherigen Sonderregeln 
+erscheinen. Für jeden lebendigen Knochen, der auf der Karte vorhanden ist, außer der Hungrigen 
+Seele, verringert die Hungrige Seele ihren Schild um 1 auf ein Minimum von 0.
+Epilog:
+Mit einem letzten Schlag fliegt die Masse der Überreste auseinander, und ein großer Lichtblitz 
+schießt durch den Raum und verwandelt die verbleibenden Feinde wieder in unbelebte Knochen. 
+"Danke Reisende." Eine körperlose Stimme hallt durch euren Kopf. "Ich versuchte, diese Menschen 
+zu retten, verdammte sie aber stattdessen zu ewiger Qual. Ihr habt uns jetzt befreit, und wir sind für 
+immer dankbar. " Verzweifelt rufst du zu der Stimme, weil du unbedingt wissen musst, was in 
+Osthafen passiert ist, warum die Dämonen angriffen haben und woher sie kamen.
+"Wir haben das selbst über uns gebracht. In unseren Studien versuchten wir, über diese Welt hinaus 
+zu reisen, aber am Ende gelang es uns nur, einen Spalt zu einem höllischen Albtraum zu öffnen. Die 
+Dämonen kamen durch und überwältigten uns wie eine steigende Flut."
+Und selbst in dieser Torheit habe ich nichts gelernt. Ich brachte diese Leute hierher und entfesselte 
+erneut Kräfte, die ich nicht vollständig verstand. Ich schäme mich so." 
+Die Stimme verblasst aus deinem Geist. Du rufst nach ihr, aber sie gibt keine Antwort. Zumindest 
+hast du die Antworten gefunden, nach denen du gesucht hast, obwohl dein Herz deswegen nicht 
+leichter ist.
+Belohnungen:
+„Der Sündenfall“ beendet, öffne den „Mond“-Umschlag, 10 Erfahrung für jeden

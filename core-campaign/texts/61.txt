@@ -1,0 +1,24 @@
+Szenario 61 (N-11): Der schwindende Leuchtturm
+Verbindung: Grube der Seelen (#62)
+Voraussetzungen: Persönliche Quest „Der Sündenfall“ (The Fall of Man)
+Ziel: Plündert alle Schatzplättchen
+Einführung:
+Du wusstest, dass es im Verweilenden Sumpf war - du hast ein Gefühl für diese Dinge. Du wusstest aber nicht, wonach du suchst, bis du es sahst - ein Leuchtturm an einem fernen Ufer, der dich mit seinem Strahl sucht.
+Du schautest kurz weg, um die Aufmerksamkeit eines Begleiters zu bekommen, und als du wieder hinsahst, war der Leuchtturm fort. Die meisten hätten diese Erfahrung ignoriert und von einem Trugbild geredet, doch du wusstest, dass es ein Zeichen war. Du wusstest, dass du den Leuchtturm wiederfinden würdest und mit ihm die Antworten, die du suchst.
+Es bedurfte ein bisschen Abstimmung, doch jetzt steht ihr an den südlichen Klippen, die auf das Nebelmeer schauen. Vor euch steht ein uralter Leuchtturm, der in einem seltsamen Rhythmus verschwindet und wieder erscheint, so als ob er zwischen zwei Welten gefan­gen wäre. 
+Das Gebäude wurde sicherlich von den Altvorderen errichtet. Ihr tretet ohne Zögern ein, da ihr wisst, dass dieser seltsame Zustand der Schlüssel zu der Suche ist. Ihr müsst Aufzeichnungen darüber finden, was hier geschah - Tagebücher, Notizen, Briefe, alle Hinweise die ihr findet.
+Sonderregeln:
+Die Monster in diesem Szenario bestehen aus zwei Gruppen. Schleime und Riesenvipern bilden „Gruppe 1“. Flammen- und Frostdämonen bilden „Gruppe 2“.
+In allen ungeraden Runden, beginnend mit der ersten, können nur die Monster aus Gruppe 1 aktivieren und von Fähigkeiten betroffen sind. In diesen Runden aktivieren Monster der Gruppe 2 nicht und sind von keinen Fähigkeiten betroffen. Alle Figuren können sich durch Hexe mit Monstern der Gruppe 2 bewegen, aber nicht den Zug dort beenden.
+In geraden Runden ist das Gegenteil der Fall. Gruppe-2-Monster handeln normal, während Gruppe-1-Monster nicht aktivieren und von Fähigkeiten nicht betroffen sind.
+Die Schatzplättchen können nur durch eine Loot-Aktion geplündert werden. Sie können nicht durch das normale Plündern am Ende des Zuges geplündert werden.
+(1)
+Ihr erreicht die Spitze des Leuchtturms mit einem Stapel alter Tagebücher unter dem Arm. Ihr seht auf dem Boden ein weiteres Buch, welches einem Flammendämon gefährlich nahe ist. Ihr bemerkt jedoch auch die Lichtquelle in der Mitte des Raumes, die langsam rotiert und mit einer seltsamen Energie pulsiert. Ihr untersucht sie kurz und stellt fest, dass sie sich genau so schnell dreht, wie der Turm zwischen den Welten hin- und herschwingt. Wenn ihr die Drehung stoppen könnt, könnt ihr vielleicht den Leuchtturm in eurer eigenen Ebene verankern.
+Epilog:
+Ihr schnappt das letzte Buch und zerbrecht dann den Strahl über euch. In einem hellen Blitz werden alle Monster in eine andere Ebene gesogen und der Leuchtturm liegt still, ohne zwischen den Ebenen zu wechseln. Ihr sammelt alle Bücher ein und kehrt in das Erdgeschoss zurück, um sie zu studieren.
+Die meisten von ihnen sind nutzlos, aber dann findet ihr das Tagebuch eines Mädchens, welches zur fraglichen Zeit im Leucht­turm war.
+Der Text ist alt und die Seiten zerfallen, aber ihr könnt einige Details erfahren. Das Mädchen, Eva, floh aus ihrer Stadt namens Osthafen, als eine Horde von Dämonen einfiel. 
+Sie wusste nicht, wo sie herkamen, doch beschreibt sie den Schrecken, den sie erlebte, äußerst deutlich. Viele ihrer Freunde wurden entzwei gerissen oder lebendig gefressen.
+Sie gehörte zu einer Gruppe Überlebender, die einer der Oberforscher von Osthafens Akademie um sich gesammelt hatte in der Hoffnung, sie hier im Leuchtturm zu verstecken. Als klar wurde, dass die Dämonen ihnen gefolgt waren, sandte der Gelehrte sie alle in einen ver­steckten Keller, bevor er versuchte, ein interplanares Ritual zu vollführen, um sie zu retten.
+Ihr schließt das Buch. Er wollte den Leuchtturm auf eine andere Ebene transportieren, um den Dämonen zu entkommen, doch offensichtlich lief das Ritual auf die ein oder andere Weise furchtbar schief.
+Uns bleibt nur noch, den versteckten Keller aufzusuchen.

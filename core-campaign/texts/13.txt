@@ -1,0 +1,98 @@
+﻿#13 N-3 Tempel des Sehers
+
+Verbindung: Keine
+
+Voraussetzungen: Keine
+Ziel: Töte alle Feinde
+
+
+Einleitung:
+Ihr hört euch bei einigen eurer Kontakte
+bezüglich Jekserah's Aufenthaltsorts um,
+doch ihr erhaltet nicht mehr, als eine
+seltsame Information durch das Heligtum 
+der Großen Eiche. Sie besagt, dass es hoch oben 
+in den Wächterbergen einen Tempel gibt, der 
+irgendwelchen unsichtbaren Kräften geweiht ist, 
+die Antworten auf alle Fragen geben, die man ihnen 
+stellt. Doch bevor dies geschieht, müssen 
+Besucher die Reise zum und die Prüfungen im Tempel 
+überleben. 
+
+Im Orden der Großen Eiche ist es eine Tradition, 
+dass seine Mitglieder auf eine Pilgerreise zu 
+diesem Tempel entsandt werden, wo sie, 
+konfrontiert mit der Aussicht auf Allwissen, 
+sich dem Stellen einer Frage verweigern, und 
+stattdessen all ihr Vertrauen in die Große Eiche 
+setzen. 
+
+Das Heiligtum hat euch die grobe Richtung vorgegeben, 
+und ihr macht euch dorthin  auf. Auch wenn der Pfad 
+klar ist, so ist der Weg alles andere als leicht. Ihr 
+riskiert mehrmals Kopf und Kragen beim Erklettern der 
+Felswand zum Tempel. Den rauen Winden  und losen 
+Steinen trotzend erreicht ihr letztendlich das Hangende
+und tretet über die Schwelle in eine große, offene 
+Eingangshalle.
+
+"Entschuldigt, aber ich kann zurzeit keine Gäste
+empfangen," schalt eine geisterhafte Stimme
+durch den Raum. "Kommt bitte in zwölf Jahren
+wieder. Vielleicht ist es mir dann möglich euch
+Unterkunft zu gewähren." 
+
+Bevor ihr Einwände äußern könnt, materialisiern
+sich vor euch mehrere massive Steinkonstruktionen.
+
+"Ich weiß, ich weiß," sagt die Stimme. "Ihr habt 
+Fragen, ich habe Antworten. Solltet ihr allerdings
+nicht sofort verschwinden, werdet ihr 
+unglücklicherweise keine Köpfe mehr besitzen, um
+überhaupt Fragen stellen zu können."
+
+Ihr macht euch kampfbereit. Um nichts in der Welt
+werdet ihr diesen Hang ohne jegliche Informationen
+wieder hinunterklettern.
+
+(1)
+
+Ihr öffnet die Tür zur inneren Kammer, und noch
+mehr Gegner materialisiern sich vor euren Augen.
+Fliegende, rote Echsen, Klagegeister, und 
+große, furchteinflösende Bären, die nicht so
+aussehen, als wären sie glücklich darüber, 
+unvermittelt hier her befördert worden zu sein.
+
+Epilog:
+Als die letzte der Kreaturen stirbt, legt sich
+eine unheimliche Stille über den Tempel. Ihr ruft,
+doch die seltsame Stimme antwortet nicht. Ihr 
+beginnt mit euren Waffen gegen die Wände zu
+schlagen und dabei noch laut zu brüllen, um damit
+unmissverständlich klar zu machen, dass ihr hier
+nicht verschwinden werdet, bevor ihr Antworten
+erhalten habt.
+
+"GENUG!" Die Kraft der Stimme lässt die Erde 
+erzittern. "Wisst ihr, ich könnte euch mit 
+Leichtigkeit umbringen. Aber normalerweise reicht
+eine Drohung, dass ihr erbärmlichen, unbedeutenden 
+Wesen wieder hinabkraxelt. Jedoch mag ich kein 
+unnötiges Töten, weshalb ich euch ein Handel
+vorschlage. Ich werde euch eine einzige Frage 
+beantworten, dafür werdet ihr ohne weitere
+Vorkommnisse diesen Ort verlassen, und nie mehr
+wiederkehren."
+
+"Also, was wollt ihr? Große Macht? (15) Großen
+Reichtum? (17) Oder ist euch der Aufenthaltsort 
+der Totenbeschwörerin, die ihr jagt, wirklich so
+wichtig? (20)"
+
+Neue Orte:
+Wählt nur einen der nachfolgenden, 
+freizuschaltenden Orte aus:
+Schrein der Stärke 15 (B-11),
+Verschollene Insel 17 (K-17),
+Heiligtum der Totenbschwörerin 20 (H-13)

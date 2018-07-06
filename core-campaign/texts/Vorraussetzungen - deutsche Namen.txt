@@ -1,0 +1,57 @@
+﻿Party requirements - Vorraussetzungen (Gruppe)
+
+A Demon’s Errand - Ein Botengang für einen Dämonen
+A Map to Treasure - Eine Schatzkarte
+Across the Divide - Auf der anderen Seite
+An Invitation - Ein Einladung
+Bad Business - Schlechtes Geschäft
+Dark Bounty - Dunkles Kopfgeld
+Debt Collection - Schuldeneintreibung
+First Steps - Erste Schritte
+Fish’s Aid - Fischs Hilfe
+Following Clues - Hinweisen folgend
+Grave Job - Wichtige Aufgabe
+High Sea Escort - Hochseegeleit
+Jekserah’s Plans - Jekserah’s Pläne
+Redthorn’s Aid - Rothorns Hilfe
+Sin-Ra - Sin-Ra
+Stonebreaker’s Censer - Steinbrechers Weihrauchfass
+The Drake’s Command - Der Befehl des Drachlings
+The Drake’s Treasure - Der Schatz des Drachlings
+The Poison’s Source - Die Quelle des Gifts
+The Scepter and the Voice - Das Zepter und die Stimme
+The Voice’s Command - Der Befehl der Stimme
+The Voice’s Treasure - Der Schatz der Stimme
+Through the Nest - Durch das Nest
+Through the Ruins - Durch die Ruinen
+Through the Trench - Durch den Graben
+Tremors - Erschütterungen
+Water Staff - Wasserstab
+
+
+Global requirements - Vorraussetzungen (Global)
+
+Annihilation of Order - Zerstörung der Ordnung
+Artifact: Lost - Artefakt: Verloren
+Artifact: Recovered - Artifakt: wiedererlangt
+City Rule: Demonic - Stadtregel: Dämonisch
+End of Corruption - Ende der Korruption
+End of the Invasion - Ende der Invasion
+The Dead Invade - Die Invasion der Toten
+The Drake Aided - Dem Drachling geholfen
+The Merchant Flees - Die Händlerin flieht
+The Power of Enhancement - Die Macht der Verbesserung
+The Rift Neutralized - Der neutralisierte Riss
+The Voice Freed - Die Stimme befreit
+Water-Breathing - Unterwasseratmung
+
+
+Personal quest/item - Persönliche Aufgabe
+
+Bravery - Tapferkeit
+“Finding the Cure” - Finde das Heilmittel
+“Seeker of Xorn” - Seher von Xorn
+“Staff of Xorn” - Stab von Xorn
+“Take Back the Trees” - Bringt die Bäume zurück
+“The Fall of Man” - Der Sturz des Mannes
+“Vengeance” - Vergeltung

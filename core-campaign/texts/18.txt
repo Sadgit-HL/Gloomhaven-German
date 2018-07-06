@@ -1,0 +1,18 @@
+Szenario 18 (C-14): Die aufgegebene Kanalisation (Abandoned Sewers)
+Verbindungen: Gloomhaven
+Voraussetzungen: Keine
+Ziel: Tötet alle Feinde
+Einführung:
+Von der Mitte der Stillen Brücke aus macht euch eine Stadtwache auf einen Gitterrost unterhalb der Westseite aufmerksam. „Das ist der beste Weg in dieses Höllenloch. Viel Glück.“
+Ihr müsst ein wenig klettern, doch schließlich schafft ihr es herunter zum Gitter, welches der Lauf der vielen Jahre verbogen und zerbrochen hat. Ihr entzündet eine Fackel, begebt euch hinein und folgt ei­nem schmalen Pfad leicht aufwärts, wobei ihr dem Rinnsal brauner Flüs­sigkeit aus dem Weg geht, welches euch entgegenkommt. Nach ein paar Mi­nuten öffnet sich der Pfad in eine Reihe von verzweigenden Gängen.
+Ihr blickt umher, um den richtigen Tunnel zu finden, als zischende Ge­räusche durch das Mauerwerk zu euch hallen. Ihr greift nach euren Waf­fen und könnt gerade so mehrere schimmernde Gestalten erken­nen, die sich euch nähern.
+(1)
+Ihr navigiert durch die unterirdischen Gänge und erreicht einen großen, offenen Raum mit einer Zisterne in der Mitte. Um diese Zisterne herum steht eine Gruppe von Vermlingen, die aufsehen und in eure Richtung knurren. Dies muss die Ursache des ver­gifteten Wassers sein.
+Epilog:
+Die Vermlinge liegen tot vor euch, und ihr dunkles Blut vermisch­t sich mit den Wasserlachen auf dem Boden. Ihr forscht weiter nach, doch ihr könnt keinerlei Gift bei den Leichen finden. Ist es möglich, dass diese Kreaturen nicht die Ursache sind, und stattdessen nur hier wohnten, fern von den Augen der Wache? Am Ende des Raumes öffnen sich große Spalten und weisen einen Gang weiter in die Tiefen. (23)
+Und wenn ihr eine Möglichkeit hättet, unter Wasser zu atmen (14) (43), könntet ihr auch die Zisterne betreten und die Quelle so finden. (26)
+Neue Orte:
+Gefrorene Talmulde (Frozen Hollow) (14) (C-10)
+Tiefe Ruinen (Deep Ruins) (23) (C-15)
+Uralte Zisterne (Ancient Cistern) (26) (D-15)
+Drachennest (Drake Nest) (43) (D-4)

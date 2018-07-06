@@ -1,0 +1,20 @@
+Szenario 16: (B-6) Der Bergpass
+Voraussetzungen: Keine
+Ziel: Tötet alle Gegner
+Verbindungen: Echokammer - #24
+Einführung:
+Wann immer die Leute über Echte Drachen sprechen, ist dies häufig mit einem Kopfschütteln verbunden, als sie selber die Worte nicht glauben, die aus ihrem Mund kommen. Echte Drachen existieren nicht, sagen sie, doch war eine riesige geflügel­te Bestie im Norden gesichtet worden, und ihr habt euch aufgemacht, um zu prüfen, ob es sie vielleicht doch gibt.
+Euer Ziel ist die Eisspitze, der höchste Gipfel in den Kupfernackenbergen. Um sie zu erreichen, müsst ihr jedoch den Nordpass durchqueren, eine enge Klamm zwischen zwei gewaltigen Felswänden, die für ihre zahlreichen Steinschläge und anderen Gefahren bekannt ist.
+Ihr geht vorsichtig voran und sucht auch über euch nach Anzeichen eines möglichen Hinterhalts. Diese Aufmerksamkeit bewahrt euch davor, von dem Steinhagel, der den Abhang herunterkommt, zerquetscht zu werden. Ihr sucht Deckung vor den Felsen und erblickt hoch oben eine Inox-Gruppe, welche aus einer verdeckten Höhle an der Seite de Klamm hervorkommt.
+Sie wollten euch mit den Felsen umbringen, doch euer Überleben spornt sie an, es auf die üblichere Art uns Weise zu versuchen. 
+(1)
+Da der Pass nun blockiert ist, betretet ihr die Höhle, um euren Angreifern gegenüberzutreten. Ein ganzes Netzwerk von Gängen erstreckt sich in den Berg hin­ein. Vielleicht lohnt es sich, sie zu erforschen, sobald eure Gegner tot sind.
+Epilog:
+Was haben Inox und Dämonen zusammen gemacht? Und so weit im Norden? Ihr durchsucht ihre Habseligkeiten auf der Suche nach einem Grund. Alles, was ihr findet, sind ein paar grobe Krakeleien über eine „Stimme“. 
+Ihr werft einen Blick in die Höhle. Vielleicht gibt es weitere Hinweise tiefer in den Tunneln.
+Im Norden ragt in der Entfernung die Eisspitze auf. (25) Dennoch habt ihr das Gefühl, dass etwas euch zuruft, die Höhle zu erkunden. (24) Nicht hörbar, doch ihr spürt einen fast unmerklichen machtvollen Drang.
+Ihr werft einen Blick auf das Inox-Gekritzel. Eine Stimme – ja, das kommt euch fast bekannt vor. Ihr könnt sie beinahe selber hören.
+Neue Orte: 
+Echokammer (Echo Chamber) (24) (C-6)
+Aufstieg zur Eisspitze (Icecrag Ascent) (25) (A-5)
+Hinweis des Übersetzers: Ich habe „dragon“ mit „Echter Drache“ übersetzt, um sie von den normalen „drakes“ zu unterscheiden.

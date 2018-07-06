@@ -1,0 +1,107 @@
+﻿#20 H-13 Heiligtum der Totenbeschwörerin
+
+Verbindung: Keine
+
+Voraussetzungen: Der Händler flieht (Global) ABGESCHLOSSEN
+Ziel: Töte Jekserah
+
+
+Einleitung:
+Eine Sache ist sicher: Ohne Hilfe hättet ihr
+niemals Jekserah's Versteck gefunden. Schon vor
+Stunden hättet ihr euch hoffnunglos im tiefen
+Dolchwald verlaufen, wenn ihr nicht die genaue
+Wegbeschreibung gehabt hättet.
+
+Nach zahllosen Biegungen und Kurven entdeckt ihr
+plötzlich vor euch, überwuchert von Bäumen und 
+Pflanzen, ein altes Mausoleum. Ein großer
+Baumstamm versperrt fast den kompletten Eingang.
+Dieses Gebäude muss schon vor langer Zeit erbaut
+worden sein, und ist über die Zeit wohl in 
+Vergessenheit geraten.
+
+Ihr habt euch an dem Baumstamm, in die dunklen
+Räume der Gruft, vorbeigequetscht. Nun entzündet
+ihr eine Fackel und wartet leise ab, ob Geräusche
+möglicher Bewohner zu hören sind. Es ist nur 
+schwach, aber zu eurer Linken hört ihr etwas 
+Schlurfendes. Ihr nähert euch mit jeder weiteren 
+Steintüre, die ihr öffnet. Dann zeichnen sich 
+vor euch, im Schein der Fackel, die Schatten von 
+lebenden Toten ab. Es scheint, als ob Jekserah 
+hart daran arbeitet ihre Armee wieder aufzubauen.
+
+(1)
+
+Jekserah hatte hier unglücklicherweise genug Zeit,
+um die Leichen zu erwecken, doch euren
+Fähigkeiten sind sie nicht gewachsen. Ihr tretet
+noch eine letzte Tür ein, dann steht ihr der
+Totenbeschwörerin persönlich gegenüber.
+
+"Ich weiß nicht, wie ihr mich gefunden habt, aber
+das macht nichts. Ihr habt fälschlicherweise
+angenommen, dass ich geflohen bin, weil ich
+Angst hatte gegen euch zu kämpfen. Doch ich hatte
+lediglich die Hoffnung noch nicht aufgegeben, dass
+ihr rechtzeitig zur Besinnung kommt. Es ist
+wirklich traurig, dass ihr nicht weiter denken
+könnt, als bis zum Ende eurer Klingen. Alle
+Leichen, die ihr bisher zerstört habt, werden
+nun durch eure eigenen ersetzt."
+
+Boss Spezial 1:
+Jekserah ruft bei zwei Spielern zwei normale 
+Lebende Gebeine, bei drei Spielern einen
+normalen und einen Elite Lebende Gebeine,
+oder bei vier Spielern zwei Elite Lebende
+Gebeine herbei.
+
+Boss Spezial 2:
+Ebenso wie Boss Spezial 1, außer dass, statt 
+Lebende Gebeine, Lebende Leichen herbeigerufen 
+werden.
+
+Epilog:
+Jekserah bricht zusammen, das Leben erlicht in
+ihren Augen. "Ich..." flüstert sie euch zu. "Ihr
+habt ja keine Ahnung, was euch noch erwartet..." 
+(28)
+
+Mit einem Schwertstreich trennt ihr den Kopf von
+ihrem Körper und beeilt euch diesen elenden Platz, 
+der mit übel zugerichteten Leichen übersäht ist,
+hinter euch zu lassen. Ihr bringt den Kopf zum
+Hauptmann der Stadtwache und werdet von ihm 
+für eure erfolgreiche Jagd stattlich entlohnt.
+
+"Falls es euch interessiert, hätte ich evenutell
+weitere Arbeit für euch." teilt er euch grimmig 
+mit.
+
+"Als Erstes haben wir von den Nördlichen Spähern 
+Kunde erhalten, dass sie große, fliegende 
+Kreaturen gesichtet haben. Sie fürchten es seien
+Drachen." Dabei schüttelt er verärgert seinen
+Kopf. "Ich möchte, dass ihr zum Nördlichen Pass
+aufbrecht und das überprüft." (16)
+
+"Indes scheint sich, ganz in der Nähe, in der
+Kanalisation unter dem Absinkenden Markt einiges
+an Ärger zusammen zu brauen. Die Brunnen in der 
+Umgebung scheinen vergiftet zu sein, und die 
+Kanalisation ist von Schlangen und Schleimwesen 
+befallen, was weitere Untersuchungen schwierig 
+gestaltet. Ich benötige euch, um der Ursache des 
+Giftes auf den Grund zu gehen." (18)
+
+Neue Orte:
+Bergpass 16 (B-6),
+Aufgegebene Kanalisation 18 (C-14),
+Äußere Ritualkammer 28 (E-4)
+
+Belohnungen:
+jeder 20 Gold
++2 Ruhm 
++1 Wohlstand

@@ -1,0 +1,67 @@
+﻿#28 E-4 Äußere Ritualkammer
+
+Verbindung: Heiligtum der Finsternis #29
+Voraussetzungen: Dunkles Kopfgeld (Gruppe) ABGESCHLOSSEN
+Ziel: Töte alle Feinde
+
+
+Einleitung:
+Als ihr die Krypta betretet, seht ihr am Fuss der 
+Treppe ein euch wohl bekanntes Gesicht. Er grinst
+von einem Ohr zum anderen. "Ah, nun seid ihr
+endlich da. Ereut möchten wir euch freundlichst 
+für eure Hilfe danken, dass ihr die nervtötende
+Totenbeschwörerin außer Gefecht gesetzt habt.
+Kommt lasst mich euch vorstellen."
+
+Die maskierte Gestalt führt euch durch eine
+Steintür in einen großen Raum. Dort deutete er
+auf einen schwarzen, flammenden Riss in der Luft.
+
+"Das", sagt er, wobei er seinen Schwindel nicht 
+verbergen kann "ist unser Meister: Der Gloom.
+Er wollte euch persönlich dafür danken, dass ihr
+so viele unserer Brüder getötet und unsere Pläne 
+behindert habt."
+
+Aus dem Riss erscheint eine Gruppe von 
+abscheulichen, aufgedunsenen Leichen und kommen
+auf euch zu.
+ 
+"Ihr seid wertloses Futter!" schreit die Gestalt
+plötzlich erheitert. "Dachtet ihr etwas ihr könnten
+so einfach wieder unsere Gunst erlangen? Ihr seid 
+hier um zu sterben! Danach könnt ihr unserer Sache
+als Leichen dienen, wie der Rest dieser wertlosen
+Idioten!"  
+
+Sepzielle Regeln:
+Alle Lebenden Leichen sind zwei Level höher als der
+Szenario-Level, bis maximal Level 7.
+
+Epilog:
+Ihr lasst vor Erschöpfung eure Waffen sinken.
+Glücklicherweise scheinen keine weiteren Untoten 
+mehr aus dem Riss zu kommen, auch wenn er selbst
+noch immer existiert und euch alleine die Präsenz 
+des Gloom Sorgen bereitet. 
+
+"Das habt ihr gut gemacht." durchbricht eine kalt,
+leise Stimme die Stille. Es scheint, als käme sie
+direkt aus der Dunkeheit vor euch. "Meine Diener
+mögen nicht in der Lage sein zu vergeben. Aber ich
+kann es."
+
+"Kommt. Kommt zu mir. Tretet ein in mein Reich.
+Verbündet euch mit dem Unabwendbaren." 
+
+Der Riss ist vor euch. Ihr könnt an seiner Seite
+kämpfen (29) oder ihr könnt euch umdrehen und 
+diesen Ort verlassen, ohne auf den Ruf des Gloom 
+zu hören.
+
+Neue Orte:
+Heiligtum der Finsternis 29 (E-3),
+
+Belohnungen:
+Eine Einladung

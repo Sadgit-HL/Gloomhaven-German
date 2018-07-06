@@ -1,0 +1,21 @@
+Szenario 93 - Versunkenes Schiff
+
+Voraussetzungen: Eine Schatzkarte (Gruppe) - erfüllt
+Ziel: Tötet alle Feinde
+
+Einleitung:
+Ihr presst die ausgeblichene Karte gegen eure Brust, als wäre es eine Decke, die euch vor den peitschenden Nordwinden schützt. Eine gefühlte Ewigkeit segelt ihr mit eurem kleinen, gemieteten Schiff auf der Suche nach dem vergessenen Schiffswrack die Küste entlang. Vielleicht würde es helfen die Karte noch näher an euch zu halten, um die Diagramme und Zahlen genauer und entschlüsselbarer zu machen?
+
+Als ihr die Hoffnung gerade aufgeben wollt, erhascht ihr am Horizont endlich einen flüchtigen Blick auf die Umrisse einer Insel. Als sie näher kommt, seht ihr eindeutig den Umriss eines ramponierten, gegen die Küste gedrückten Schiffes; halbversunken und kurz davor auseinanderzufallen. 
+
+Ihr segelt auf die abgewandte Seite der Insel, wo ein abgelegener und einladender Strand ein sichereres Ankern erlaubt. Die Gedanken welche Schätze euch an Bord des Schiffes erwarten mögen, wärmen euch jetzt gegen den Wind, aber ihr malt euch auch aus, welche Gefahren sie wohl bewachen mögen. Als eure Jolle auf die Küste zufährt, werdet ihr von einem Schwarm Lauerer (Lurker) begrüßt, der sich aus der Brandung erhebt. Wie lange sie euer Schiff wohl schon in der Tiefe verfolgt und auf eine günstige Gelegenheit um zuzuschlagen gelauert haben?
+
+Sonderregeln:
+Alle Charaktere starten mit dem Zustand BEWEGUNGSUNFÄHIG als Szenario-Effekt.
+
+Epilog:
+Die Geister scheinen ruhig und die Lauerer haben sich zurückgezogen. Ihr habt auf dem Schiff geplündert was ihr konntet und habt es sehr eilig nach Gloomhaven zurückzusegeln, um wieder auf trockenem, warmem Boden zu stehen. 
+Ihr werft noch einen letzten Blick auf die seltsame Insel und das aufgespießte Schiff und setzt euren Plan in die Tat um.
+
+Belohnung: 
+Jeder bekommt 10 Erfahrung

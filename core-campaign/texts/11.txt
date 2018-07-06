@@ -1,0 +1,32 @@
+Szenario 11: Der Gloomhaven-Platz A
+Voraussetzung: Ende der Invasion (End of the Invasion) UNERFÜLLT
+Ziel: Tötet den Hauptmann der Wache (Captain of the Guard)
+Verbindungen: Gloomhaven
+Einführung:
+Jekserahs Plan ist beunruhigend, aber er ist stichhaltig auf eine finstere, verdrehte Art. Ihr habt die Wachen auf der Mauer gese­hen. Sie sind kaum in der Lage, Vermlinge zurückzuhalten, und die Be­steuerung stranguliert die Stadt - und eure Geldbörsen. 
+Mit einer Armee von können die Händler die Stadt in ein Zeitalter des Wohlstands führen und sie vor den Mächten außerhalb der Mauern beschützen.
+„Söldner, seid ihr bereit, das Schick­sal dieser Stadt in eure eigenen Hände zu nehmen?“ 
+Ihr nickt. „Meine Armee ist bereit. Wir stürmen die Geisterfes­tung!“ Ein Aufruhr in der Eingangshalle lenkt euch von Jek­serahs Ansprache ab. Ihr stürmt hinein und erkennt einen Trupp von Soldaten, der über den Körpern von Jekserahs Inox-Leibwächtern steht.
+„Dies endet jetzt!“ Argeise richtet eine Armbrust auf euch. „Ich habe versucht, euch zu warnen. Habt ihr irgendeine Vorstellung, was ihr auf die Stadt loslasst?“
+„Es ist zu spät“, zischt Jekserah von hinter euch. „Sie kön­nen uns nicht stoppen. Meine Armee hat sich be­reits in der Stadt verteilt. Sie wird nur weiter an­wachsen mit je­dem Gardisten, der fällt.“
+Jekserah wendet sich euch zu. „Eilt zur Geisterfestung. Wenn der Hauptmann der Wache fällt, wird der Wider­stand gegen unsere neue Ordnung kurz darauf zu­sammenbrechen.“
+Sonderregeln:
+Alle lebenden Knochen (Living Bones) und lebende Leichen (Living Corpses) sind für euch Verbündete (allies) und für alle anderen Monstertypen Feinde (enemies).
+(1)
+Mit den Leichnamen der Wachen im Schlepptau, die sich regten und als Untote wieder erhoben, schlagt ihr gegen das Festungstor. „Heute stellen wir uns gegen die Dun­kelheit!“, ruft der Hauptmann der Garde, der seine Soldaten um sich geschart hat. „Zu mir! Ich werde die Stadt nicht diesem Abschaum zufallen lassen!“
+Epilog:
+Als die letzte Wache fällt, erblickt ihr erneut eine Verwandlung der Körper in seelenlose wandelnde Leichname. Jekserah schreitet durch den Tür hinter euch.
+„Ihr habt recht gehandelt, Söldner - ihr habt euch im Ange­sicht die­ser gnadenlosen Schurken bewiesen. Nachdem meine Leibwächter tot sind, werdet ihr meine neue rechte Hand sein, und gemeinsam werden wir über diese Stadt herrschen, wie es ihr vorbestimmt war. Die letzten Überreste des alten Imperiums sind zerfallen, und ihr solltet stolz sein.“
+„Aber es gibt noch viel zu tun. Die Händlergilde macht sich Sorgen über die abnehmende Qualität unsere Wasserversorgung. Wir glauben, dass eine dunkle Macht in der Kanalisation am Werk ist, welche die Stadt vergiftet. (18) “
+„Hinter verschlossenen Türen habe ich auch Gerüchte gehört, dass sich ein Drache in den Kupfernacken-Bergen eingenistet hat. Eine Kaufleute sind sehr kindisch, aber jemand sollte den Berichten nachgehen. Was auch im­mer es ist, es könnte eine Bedrohung für die Stadt sein. (16)“ 
+Neue Orte:
+Bergpass (Mountain Pass) (16) (B-6)
+Aufgegebene Kanalisation (Abandoned Sewers) (18) (C-14)
+Globale Errungenschaften:
+Stadtherrschaft: Wirtschaftlich (City Rule: Economic)
+Ende der Invasion (End of the Invasion)
+Belohnungen:
+Jeder 15 Gold
+-2 Reputation
++2 Wohlstand (prosperity)
+Entwurf der Schädelfluchaxt („Skullbane Axe“ design, Item 113)

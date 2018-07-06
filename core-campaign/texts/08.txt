@@ -1,0 +1,67 @@
+﻿#8 C-18 Gloomhaven Lagerhaus
+
+Verbindung: Keine
+
+Voraussetzungen: Jekserahs Pläne (Gruppe) ABGESCHLOSSEN
+ und Die Invasion der Toten (Global) NICHT ABGESCHLOSSEN
+Ziel: Töte beide Inox Leibwachen
+
+
+Einleitung:
+Auf das Geheiß eures mysteriösen Kontakts, 
+schleicht ihr, im Schutze der Nacht, zu
+Jekserahs Lagerhaus. Mit etwas Glück gelingt
+es euch ihre Pläne aufzudecken und sie zu stoppen.
+Ihr hattet gehofft, dass Lagerhaus nahezu verlassen
+vorzufinden, stattdessen müsst ihr feststellen, dass
+es dort nur so von Untoten wimmelt. Immerhin gibt euch
+dies eine besseren Einblick in ihre Pläne. Mit Sicherheit
+nutzt sie die Beschwörungs-Schriften, die ihr 
+ihr gebracht habt dazu Untoten innerhalb der Stadtmauern 
+zu beschwören, doch nun ist es an der Zeit sie wieder 
+zur Ruhe zu schicken.
+
+(1)
+Ihr schlagt euch durch Reihen von Lagerregalen mit Fallen
+und Untoten, und erreicht letzendlich das Hinterzimmer
+des Lagerhauses, wo ihr nun Jekserah und ihre zwei 
+Inox Leibwachen gegenüber steht.
+"So, ihr habt euch also dafür entschieden meine Pläne
+zu durchkreuzen, anstatt mir zu helfen? I werdet eure
+Entscheidung noch bereuhen, wenn ich, gefolgt von 
+einer Legion Untoter, nach Gloomhaven zurückkehre!"
+Mit unglaublicher Geschwindigkeit dreht sich Jekserah um, 
+rennt von euch weg und springt aus einem Fenster.
+Ihr wollt sie verfolgen, doch die beiden riesigen Inox
+verhindern euren Versuch.
+
+Epilog:
+Nach dem Kampf schaut ihr aus dem Fenster und seht
+keinen Hiweise auf die geflohene Valrath. Ihr habt
+ihr Pläne durchkreuzt, zumindest für den Moment, 
+doch nach einer kurzen Besprechung, ist klar, ihr 
+müsst sie zur Strecke bringen, bevor sie ihre Drohungen
+wahrmachen kann. (13)
+
+"Sie ist außerhalb meiner Reichweite", teilt euch die 
+Stadtwache Argeise mit einem Schulterzucken mit, als
+ihr sie später befragt. "Wir würden gerne sicherstellen, 
+dass sie keinen weiteren Schaden anrichtet, aber sie hat 
+die Stadt verlassen, und ich werde nicht durch die Wildnis
+latschen."
+"Vielleicht habt ihr mehr Glück bei der Aesther Zaubererin 
+in der Stadt.", schlägt sie euch vor. "Sie kann euch 
+bestimmt den Aufenthaltsort dieser Memme vorraussagen,
+sofern ihr es schafft, dass sie mit euch zusammenarbeitet."
+(14) (7)
+
+Neue Orte:
+Pulsierende Grotte 7 (C-12),
+Tempel des Sehers 13 (N-3),
+Gefrorene Talmulde 14 (C-10)
+
+Globale Errungenschaft:
+Der Händler flieht
+
+Belohnungen:
++1 Reputation

@@ -1,0 +1,14 @@
+Szenario 32: Der Kränkelnde Wald
+Verbindungen: Keine
+Voraussetzungen: Der Befehl der Stimme (Party) ABGESCHLOSSEN
+Ziel: Deckt das G-Plättchen auf, tötet alle aufgedeckten Feinde, und plündert das Schatzplättchen
+Einführung:
+Der dichte Wald lichtet sich, als ihr euch der Position des ersten Gefäßes der Stimme nähert. Durch die Bäume seht ihr ein verrottendes hölzernes Bauwerk mit eingestürzten Wänden, von dem sich eine Fäulnis auszubreiten scheint. Die Bäume und Pflanzen um das Gebäude herum sind gleichsam verdorben und angefault.
+Die Stimme behauptet, dass dieser Ort eine Sekte militaristischer Heimsucher beherbergt, ausgesprochen aggressiv und territorial. Niemand ohne extreme Todessehnsucht würde es wagen, sich diesem Gebiet zu nähern.
+Euch bleibt also nichts übrig, als die Tür einzutreten und das Gefäß irgendwo in den Truhen der Heimsucher aufzuspüren. Alternativ habt ihr auch einen Nebeneingang ausgekundschaftet, der einige Begegnungen umgehen könnte, aber vielleicht zu anderen Gefahren führt.
+Epilog:
+Es war recht schwierig, die Heimsucher zu besiegen, doch am Ende fielen sie wie jeder andere Gegner. Ihr spürt, wie die Fäulnis dieses Ortes in eure Knochen zieht und durchsucht schnell das Gebäude, bis ihr das kleine Erdgefäß findet, welches euch die Stimme gezeigt hat. 
+Als ihr es aufnehmt, füllt die Stimme euren Geist. „Gut! Ja, hervorra­gend! Die Heimsucher waren nur einer der Wächter, welche meine Reise aufhalten sollten. Ich zeige euch jetzt den zweiten Ort. (33) Bitte bringt die Ge­fäße zu mir zurück. Ich werde euch reich belohnen.“ (40)
+Neue Orte:
+Rüstkammer der Savvas (33) (A-7)
+Uraltes Verteidigungsnetzwerk (40) (F-12)

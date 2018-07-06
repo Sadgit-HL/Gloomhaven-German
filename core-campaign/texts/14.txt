@@ -1,0 +1,32 @@
+Szenario 14: Die gefrorene Talmulde
+Voraussetzungen: Keine
+Ziel: Tötet alle Feinde
+Verbindungen: Keine
+Einführung:
+Ein Verzauberer ist jetzt gefragt, und daher gedenkt ihr, einen zu finden.
+Ihr folgt den Berichten über eine Aesther im Kesselviertel und findet euch schließlich vor einer verlassenen und heruntergekommenen Taver­ne wie­der: dem Verbogenen Knochen. Nach dem Öffnen der Tür erscheint euch das Innere genau so, wie es außerhalb angekündigt war: Spinnweben, zerbrochene Barhocker und staubiges, zerbrochenes Glas.
+Ihr tretet über die Türschwelle, und eine durchscheinende weibliche Ge­stalt erscheint plötzlich vor euch. „Warum seid ihr an diesen Ort gekommen, Söld­ner? Eure Anwesenheit ist unerwünscht, und ihr stört meine Studien.“
+Schnell erklärt ihr den Grund eurer Anwesenheit, und ihr Stirnrunzeln wird finsterer.
+„'Oh, seht euch die Aesther-Frau an. Sie kann alle eure Wünsche erfüllen. Alles was sie tun muss ist, mit den Händen zu winken, und unsere wildes­ten Träume werden wahr werden.'“ Sie seufzt frustriert und winkt tat­sächlich mit den Händen. „Lasst mich zufrieden.“
+Ihr rührt euch nicht. Sie starrt euch an.
+„Nun, anstatt mich zu stören, könntet ihr mir vielleicht helfen. Tut mir einen Gefallen, dann tue ich vielleicht euch einen. So läuft das doch, oder?“ Die Frau dreht sich um und geht auf eine zerstörte Treppe zu, doch nach ein paar Schritten ver­schwindet sie komplett.
+„Ich benötige eine Kugel aus der Gefrorenen Talmulde in den Kupfer­nacken-Bergen.“ Ihre Stimme kommt von direkt vor euch, als ob sie sich gar nicht bewegt hätte. „Bringt sie zu mir zurück und ich könnte euch helfen.“
+Eine Karte fällt euch vor die Füße. „Mein Name ist übrigens Hagel. Kehrt nicht ohne die Kugel zurück.“
+Es ist einfach, der Karte zu folgen. Tief in den Kupfernacken-Bergen, ver­deckt von Schneewe­hen, findet ihr den Ein­gang zu einer dunklen, engen Höhle. Die Wolfsspu­ren um den Eingang sind beunru­higend, doch festen Mutes dringt ihr ein.
+Sonderregeln:
+Füge als Szenario-Effekt (scenario effect) zum Angriffsmodifikatoren-Stapel jedes Charakters drei (-1) Karten hinzu.
+Epilog:
+Nachdem der letzte eurer Gegner tot ist, nä­hert ihr euch dem Ende des Raumes, wo eine kleine blaue Kugel über dem Boden schwebt. Ihr streckt die Hand aus, um sie zu berühren, und sie fühlt sich kalt an. Wenn man fest zupackt, ist die Kälte fast un­erträglich, doch ihr steckt sie schnell in euren Rucksack und macht euch auf den Rückweg zum Verboge­nen Knochen.
+Ihr betretet die verlassene Taverne und ruft laut nach Hagel. Ohne eine Antwort zu erhalten, irrt ihr ziellos umher durch das chaotische Durcheinander dieses Ortes. Ihr fragt euch, wie sie in dieser Umgebung jemals etwas zustande bringt. Als ihr euch der Theke nähert, erscheint Hagel vor euch, in der Hand die Kugel.
+„Sehr interessant.“ Sie scheint euch gar nicht zu bemerken. „Ein Riss in unse­rer Ebene, irgendwie eingeschlossen in eine kugelförmige Barriere. Gut, dass ihr das auf dem Weg zurück nicht zerbrochen habt. Möglicherweise wärt ihr di­rekt in eine Ebene reinen Frostes gesogen und zu einem Block gefroren worden, bevor ihr Zeit zum Atmen gefunden hättet. Oder etwas Schlimme­res wäre passiert.“
+„Es ist so verworren. Wer hätte die Macht, dies zu tun?“ Hagel geht einen Schritt nach links und verschwindet wieder.
+Ihr wartet gefühlte Stunden und nehmt nicht einmal auf den weni­gen Barhockern Platz, die noch nicht auseinandergefallen waren. Ab und an ruft ihr, aber erhaltet keine Antwort.
+„Oh, ihr seid noch da.“ Ihr dreht euch um und seht Hagel in der Mitte des Raumes. „Gut, ich würde gerne an euch einen Versuch durchführen, wenn das in Ordnung ist.“ Sie streckt die Hand nach euch aus und ihr fallt rückwärts über einen Tisch, der sogleich in hunderte Stücke zerbricht
+„Ach, jetzt zickt mir nicht so herum. Ich bin mir ziemlich sicher, dass es gut ausgehen wird.“
+Hagel erklärt, dass sie rohe elementare Macht aus einer anderen Ebene her­beirufen und in einer kleinen Kugel einschließen will, welche dem Be­sitzer verbesserte Fähigkeiten geben würde. Der Einschlussprozess würde jedoch eine Menge Goldmetall erfordern.
+„Nun da ihr mir in meinen Bemühungen geholfen habt, sollte ich vermut­lich den Gefallen zurückgeben.“ Hagel räusperte sich. „Also, was war es noch ein­mal genau, was ihr wolltet?“ (7) (19) (31) (43)
+Globale Errungenschaft: Die Macht der Verbesserung (The Power of Enhancement)
+
+Hinweise des Übersetzers: 
+- Es wird kein neues Szenario freigeschaltet. Die angegebenen Nummern sind Szenarien, für die man die globale Errungenschaft „Power of Enhancement“ benötigt. 
+- Die Regeln für Verbesserungen sind auf Seite 45ff des Regelbuchs.

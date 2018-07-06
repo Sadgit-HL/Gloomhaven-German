@@ -1,0 +1,30 @@
+Szenario 27 (E-6): Der verheerende Spalt
+Verbindungen: Keine
+Voraussetzungen: Artefakt verloren NICHT ABGESCHLOSSEN (Global) und Steinbrechers Rauchfass (Party) ABGESCHLOSSEN
+Ziel: Beschützt Hagel für 10 Runden
+Einführung:
+Auf dem Weg zurück zur Verheerenden Krypta kommt euch Hagel fast fröhlich vor, als sie mit euch durch den Schlamm stapft, begierig, Dämonen und Untote zu be­kämpfen.
+„Es ist so lange her, dass ich außerhalb von Gloomhaven war“, sagt sie, wobei sie das elementare Rauchfass beim Gehen hin und her schwenkt. „Die Stadt ist für meine Studien notwendig, aber es es ist gut, eine kleine Pause zu machen und wieder über diese Ebene zu reisen. Und dieses Mal mit so viel weniger Gefahr.“
+Ihr seht die Aesther fragend an. „Sicher, Kultisten und Dämonen sind nicht gerade freundliche Begegnungen, aber als ich das letzte Mal durch diese Lande reiste... nun, ich schwor, dass ich niemals darüber spreche.“ 
+Hagel schweigt, bis ihr die Krypta erreicht. Als ihr die uralten Tore der Krypta öffnet, rechne­t ihr halb damit, dass sie wieder vor Kultisten und Dämonen wimmelt, doch die Steinhallen sind so still und verlassen wie der Tod. Ihr schreitet zur Hauptkammer, wo ihr den riesigen Spalt über ei­nem dämonischen Altar schwebend vorfanden.
+„Nun, ihr habt wirklich nicht gescherzt“, sagt Hagel. „Dieses Ding ist wunderschön! Der Umfang und die Beständigkeit - ziemlich beeindruckend!“ Hagel umrun­det den Altar, wirft Sand in die Luft und sieht beim Fallen zu.
+„Ich kann es ziemlich sicher schließen, dank Steinbrechers Rauchfass hier. Ich glaube aber nicht, dass die Mächte auf der anderen Seite dieses Spalts sich darüber freuen werden.“
+Sie hebt das Rauchfass mit einem Arm über ihren Kopf und stößt den zweiten ellbogentief in den Spalt. „Hereinspaziert, meine Damen und Her­ren! Dies wird eine verdammt gute Party.“
+Sonderregeln:
+Hagel (a), die durch ein Zahlenplättchen dargestellt wird, hat 4+(2xL) Trefferpunkte. Sie ist mit euch verbündet und mit allen anderen Monstertypen verfeindet. Sie hat eine Initiative von 99 zum Zweck des Monsterfokus. Wenn Hagel getötet wird, ist das Szenario verloren.
+Am Ende der ersten Runde erscheint ein Dämon auf Hex (b). Am Ende der zweiten Runde erscheint einer auf Hex (c). Nach der zweiten Runde erscheinen am Ende jeder ungeraden Runde zwei verschiedene Dämonen bei (d) und (e), und am Ende jeder geraden Runde bei (b) und (c).
+Die Art des Dämons rotiert in der Reihenfolge Nachtdämon, Winddämon, Frostdämon, Sonnendämon, Erddämon, Flammendämon und dann wieder Nachtdämon.
+Alle eingesetzten Dämonen sind normal bei zwei Charakteren, Wind-, Sonne- und Flammendämonen sind Elite bei drei Charakteren. Alle Dämonen sind Elite bei vier Charakteren.
+Epilog:
+Hagel stößt einen markerschütternden Schrei aus. Ihr seht sie an und befürchtet, dass mehr Dämonen sie an euch vorbei verletzt haben. Stattdes­sen seht ihr, wie sie ihre Hand aus dem Spalt herauszieht. Ihr rauchender Un­terarm sieht verkümmert aus.
+Als ihre verschrumpelten Finger sich aus den chaotischen Energien des Spaltes lösen, wabert er und beginnt zu schrumpfen. Ein starker Wind setzt in der Halle ein, und die euch bekämpfenden Dämonen zeigen das erste Mal Furcht. Anstatt ihre Klauen in euch zu bohren, klammern sie sich am Steinboden fest, um sich gegen den Zug zurück in die Kluft zu stemmen.
+Ihre Anstrengungen sind jedoch vergeblich. Allesamt werden sie zurück in ihre eigene Ebene gesogen. Der Riss schrumpft auf einen schimmernden Punkt zu­sammen und verschwindet.
+Hagel bricht zusammen, und ihr seid an ih­rer Seite. „Oh, küm­mert euch nicht um mich“, hustet sie. „Es wird schon gehen. Dieser alte Körper hat weit Schlimmeres gesehen.“
+Ihr Hustenanfall wandelt sich bald in Gelächter. „Das war ja mal wirklich was, oder? Bei euch kann ich mir immer einer Herausforderung sicher sein.“
+„Hier, helft mir auf. Ich muss sofort nach Gloomhaven zu­rückkehren. Ich habe viele neue Anregungen für meine Forschung gewonnen. Wenn ihr inter­essante Ideen für Verzauberungen habt, könnt ihr jederzeit bei mir vorbei­schauen und ich werde mir etwas überlegen, um mich bei euch zu bedan­ken.“
+Globale Errungenschaft:
+Der Riss neutralisiert (The Rift Neutralized)
+Belohnung:
++1 Wohlstand
+jeder 100 Gold
+Dieses Geld muss sofort für Verbesserungen ausgegeben werden

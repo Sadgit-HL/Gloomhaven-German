@@ -1,0 +1,27 @@
+SZENARIO 4: Krypta der Verdammten
+
+Voraussetzungen: Keine
+Ziel: Töte alle Feinde
+Links: Keine
+
+INTRODUCTION:
+
+Diese Ankündigungen einer „Finsternis“, die der Banditenanführer machte, machen Euch zu schaffen, als ihr die Flussbiegung im Stillen Fluss sucht - es muss hier irgendetwas geben, das für diese Wahnsinnigen von Bedeutung ist.
+
+Es überrascht euch ziemlich, die Ruinen einer uralten Krypta zu finden, die von Moos und Unkraut halb überwuchert ist. Die Geschichte dieses Ortes ist alt und düster. Da ihr sonst nichts über diesen Ort wisst, beschließt ihr, in die Tiefen herabzusteigen. Ihr seid entschlossen, herauszufinden, was auch immer diese mutmaßlichen Banditen vor haben, und daran ändert sich nichts, als ihr am Fuße der Treppen eine große Gruppe von ihnen und noch mehr belebte Tote findet.
+
+„Es war ein Fehler, hier herzukommen“, zischt einer der Banditen. Ihr seid da anderer Meinung. Ihr fühlt euch hier genau richtig.
+
+—-1—-
+Ihr brecht die Tür auf und denkt, ihr wärt auf alles vorbereitet. Vor euch steht jedoch eine Kreatur aus reiner elementarer Energie, und sie ist wutentbrannt und dämonisch. Ihr braucht einen Moment, um euch zu sammeln. Als ob die Toten wiederzubeleben diesen Wahnsinnigen nicht genug wäre!
+
+CONCLUSION:
+Es steht fest, dass Ihr hier irgendeine Art von Ritual unterbrochen habt. Diese elementaren Dämonen gehören auf eine völlig andere Existenz-Ebene, aber irgendwie haben die Kultisten es geschafft, sie auf unsere zu befördern.
+
+Auf dem Altar im Hinterzimmer steht reichlich Gekritzel, das sich mit den Ritualen befasst. Nicht alles davon ist nachvollziehbar geschweige denn leserlich, aber Ihr kriegt den Eindruck, dass diese Krypta einst ein Ort der Kraft war, dessen sich eine uralte Zivilisation bediente. Diese Urväter haben die Kraft der Elemente angezapft, um ihr eigenes Leben zu verlängern, und obwohl ihr letztliches Schicksal Euch nicht bekannt ist, hat es sicherlich kein gutes Ende genommen.
+
+Unter den Schriften findet Ihr außerdem Erwähnungen einiger weiterer Orte der Macht, die sich in der Nähe befinden. Einer von diesen scheint vom Kult häufig benutzt zu werden, während der andere als von bösartigen Untoten überrannt markiert worden ist. Es sieht so aus, als hättet Ihr die Chance, entweder weiter die Arbeit des Kults zu stören (5), oder Euch bei ihm anzubiedern, indem ihr die Bedrohung durch die Untoten aus dem Weg räumt (6).
+
+NEW LOCATIONS:
+Verfallene Krypta (5, D-6),
+Verwesende Krypta (6, F-10).

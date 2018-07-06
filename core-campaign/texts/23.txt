@@ -1,0 +1,21 @@
+Szenario 23 (C-15): Die tiefen Ruinen
+Verbindungen: Gloomhaven
+Voraussetzungen: Keine
+Ziel: Besetzt gleichzeitig alle Druckplatten
+Einführung:
+Ihr entscheidet euch, die dunklen Gänge unterhalb der Abwasserkanäle zu meistern und dringt im Licht einer Fackel weiter herab. Schließlich führen diese durch marodes Mauerwerk zu aufwändig hergestell­ten Steingängen in ausgesprochen baufälligen Zustand.
+Ihr seht, die in einer unbekannten Sprache in die Mauern ge­meißelt sind. Selbst wenn wir ihr die Sprache beherrschtet, wären sie schwierig zu lesen, da viele Steine geborsten sind oder fehlten.
+Ihr folgte dem Gang und kommt endlich in einen großen Raum voller zer­störter Maschinerie, die ihr nicht ansatzweise versteht. Ihr erblickt eine Tür auf der gegenüberliegenden Seite, doch als ihr näher tretet, er­schallt ein dröhnendes Ge­räusch im Raum, fast wie ein Alarm. Dann er­wacht die Maschinerie zum Leben, sichtlich mit der Absicht, jegliche Ein­dringlinge anzugreifen. Mit anderen Worten, euch.
+Sonderregeln:
+Fügt als Szenario-Effekt dem Angriffsmodifikator-Stapel jedes Charakters drei (-1) – Karten hinzu.
+(1)
+Ihr kämpft euch durch den Maschinen­raum und kommt in Korridore, die nach links und rechts abbiegen. Der Alarm er­tönt von beiden Richtungen. Um ihn abzuschalten, müsst ihr euch möglicherweise aufteilen.
+Sonderregeln:
+Es gibt so viele Druckplatten wie Charaktere. Bei zwei Charakteren existieren die Platten (a), bei drei Charakteren die Platten (a) und (b) und bei vier Charakteren die Platten (a), (b) und (c).
+Epilog:
+Nachdem der letzte Schalter gedrückt ist, verklingt der Alarm !!br0ken!! Die Lichter auf den Geschüt­zen erlöschen und ihre Rohre zeigten nach unten, als ob sie ruhten. Die Maschine­rie stottert und erstirbt, und die Zahnräder drehen sich nicht mehr. Inner­halb weniger Sekunden sind die Hallen wieder so leblos wie zuvor, und ihr könnt weiter in Ruhe erkunden.
+Ihr folgt einem engen Gang auf der Rückseite des linken Raumes, worauf ihr einen Korridor erreicht, der in einem Tümpel brackiger Flüssigkeit en­det. Ihr könnt in der Entfernung schwach ein Licht unter dem Wasser glimmen sehen. Ein kurzes Bad kann euch weiter in diese Unter­grundwelt führen. (26)
+Globale Errungenschaft:
+Uralte Technologie (Ancient Technology)
+Party-Errungenschaft:
+Durch die Ruinen

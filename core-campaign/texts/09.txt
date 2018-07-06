@@ -1,0 +1,24 @@
+Szenario 9: Die Diamantmine (Diamond Mine)
+Voraussetzung: Die Händlerin flieht (The Merchant Flees) (Global) NICHT RFÜLLT
+Ziel: Tötet den Gnadenlosen Aufseher (Merciless Overseer) und plündert das Schatzplättchen
+Einführung:
+Ihr ignoriert Argeises Warnung und macht euch zur Diamantmine auf. „Düstere Machenschaften“ ist natürlich ein beunruhigener Ausdruck, der jedoch aus eurer Sicht durch „bedeutende Belohnung“ in Windeseile übertrumpft wird.
+Ihr betretet die unterirdische Höhle in der Erwartung, ein paar ma­gere Vermlinge vorzufinden, die leicht zu überwinden wären. Ihr hattet sicherlich nicht mit einem Rudel bösartiger Wölfe gerechnet, die den Eingang bewachen. Es könnte schwieriger als erwartet werden, diesen Diamanten zu finden.
+(1)
+Ihr bewegt euch durch einen engen Kriechgang, der sicher mehr für Vermlinge geeignet ist, in eine Kaverne voll mit Geröll und ausgesprochen wachsamen Verm­ling-Bergleuten. Am Ende der Höhle lässt ein Mann in einer dunklen Robe seine Peitsche knallen und gibt Befehle an seine Unterge­benen, die ihre Spitzhacken nun vom Stein weg in eure Richtung wenden.
+Boss-Spezial 1:
+Alle Vermlinge machen sofort einen weiteren Zug mit der Aktion, die für diese Runde für sie gezogen wurde.
+Boss-Spezial 2:
+Der Gnadenlose Aufseher beschwört zwei normale Vermling-Scouts bei zwei Charakteren, einen normalen und einen Elite-Vermling-Scout bei drei Charakteren, oder zwei Elite-Vermling-Scouts bei vier Charakteren.
+Epilog:
+Nachdem der Aufseher besiegt ist und ihr den Diamanten in der Hand haltet, kehrt ihr zu Jekserah zurück, um eure Belohnung zu erhalten. Ihre Leibwäch­ter führen euch in ihre Villa, wo sie euch etwas verän­dert erscheint - geplagter und grimmiger.
+„Wunderbar.“ Sie tauscht den Diamanten gegen eine große Börse voller Mün­zen. „Dies wird einen hervorragenden Fokus für die Beschwörungen ab­geben. Ich frage mich, ob die Kultisten überhaupt wussten, was sie da hatten. Hiermit kann ich eine ganze Armee von Untoten erschaffen!“
+Sie dreht sich mit einem seltsamen Flackern in den Augen nach euch um. „Nun dann! Seid ihr bereit, das Militär von Gloomhaven zu stürzen und die Kontrolle in die Hände der Kaufmannsgilde zu geben? (11) Oder habt ihr nicht den Mumm, eine wahre Veränderung zu wagen?“ (12)
+Neue Orte:
+Der Gloomhaven-Platz A (11) (B-16)
+Der Gloomhaven-Platz B (12) (B-16)
+Globale Errungenschaft:
+Die Toten marschieren ein (The Dead Invade)
+Belohnung:
+Jeder 20 Gold
++1 Wohlstand (Prosperity)

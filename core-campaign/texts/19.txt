@@ -1,0 +1,36 @@
+Szenario 19 (M-7): Die vergessene Krypta
+Verbindungen: Keine
+Voraussetzungen: Die Macht der Verbesserung (The Power of Enhancement) ABGESCHLOSSEN
+Ziel: Beschützt Hagel (a), bis sie den Altar (b) erreicht. 
+Einführung:
+„Ihr wollt was noch einmal tun?“ Hagel blickt euch beide fassungslos an. „Ihr habt einen Spalt zur Ebene der Ele­mentaren Macht gefunden, und ihr wollt ihn schlie­ßen?“ Sie seufzt.
+„Na gut, ich habe ja zugesagt, euch zu helfen.“ Sie wirft die kleine Kugel, die ihr beschafft habt, unablässig auf und ab. „Mal sehen, basierend auf eurer Be­schreibung wird es et­was zusätzliche Arbeit erfordern, einen Riss dieser Grö­ßenordnung zu schließen. Ich könnte es selber erledigen, aber es würde ein bisschen dauern, und es könnte mühselig werden, wenn wir von der an­deren Seite mitten während der Anrufung an­gegriffen würden. Es wäre viel einfacher, wenn ich ein elementares Rauch­fass hätte, was sich wirk­lich un­heimlich gut trifft, da ich mir für meine Stu­dien sowieso eines zulegen wollte.“
+„Ich kannte vor vielen Jahren einen mächtigen Elementaristen, der eines be­saß. Er ist jetzt tot, doch ich werde euch persönlich zu seiner Krypta füh­ren. Ich rate euch davon ab, selber mit dem Rauchfass herumzuhantieren.“
+Nach eines Tages Reise findet ihr ein uraltes, überwuchertes Mausoleum, wel­ches am Rand des Schlangenkussflusses liegt. 
+„Steinbrecher war wirk­lich ein netter Kerl. Von massiven Felsen erschlagen zu werden ist jedoch nun mal eines der Risiken, wenn man ein Elementarist ist.“ Nachdem ihr die über­wuchernden Ranken entfernt habt, betretet ihr die Krypta.
+„Oh, großartig!“, sagt sie. „Diese verfluchten Kultis­ten sind heutzutage überall. Wahrscheinlich suchen sie auch das Rauchfass. Oder sie wollen einfach, dass ihr es nicht bekommt.“
+Ihr seht Hagel verwirrt an, und sie zeigt in die Schatten, wo dunkle Ge­stalten in schwarzen Roben auftauchen.
+„Du hättest nicht herkommen sollen, Geisterge­sicht“, sagt eine von ihnen.
+„Ach“, seufzte Hagel. „Erledigt diese Einfaltspinsel schnell. Sie langweilen mich jetzt schon.“
+Sonderregeln:
+Fügt als Szenarioeffekt dem Angriffsmodifikator-Stapel jedes Charakters drei Fluch (CURSE)-Karten hinzu.
+Hagel (a), die durch einen Zahlenmarker repräsentiert wird, hat 4+(2xL) Trefferpunkte. Sie ist für euch ein Verbündeter und ein Feind für alle anderen Monstertypen. Sie handelt in jeder Runde mit der Initiative 99 und führt „Bewegung 2“ (MOVE 2) in Richtung des Altars (b) aus, wobei sie bei Bedarf Türen öffnet und Fallen auslöst. Das Szenario ist gewonnen, wenn sie ihren Zug in einem Hex benachbart zum Altar beendet. Wenn Hagel stirbt, ist das Szenario verloren.
+(1)
+Die verfluchten Untoten geben keine Ruhe. Als wir die Tür in den nächsten Raum eintretet, hört ihr weiteren Aufruhr vom Eingang der Kryp­ta. „Es sind noch mehr hinter uns“, ruft Hagel.
+Sonderregeln:
+Setze einen normalen Kultisten bei zwei Charakteren, oder zwei normale Kultisten bei drei oder vier Charakteren an Position (c) ein.
+(2)
+Sonderregeln:
+Setze einen normalen Lebendigen Geist bei zwei oder drei Charakteren, oder zwei normale Lebendige Geister bei vier Charakteren an Position (d) ein.
+(3)
+Sonderregeln:
+Setze einen normalen Lebendige Knochen bei zwei Charakteren, oder zwei normale Lebendige Knochen bei drei oder vier Charakteren an Position (e) ein.
+Epilog:
+Hagel bewegt sich nach vorne und ergreift das Rauchfass. Sie hebt es an und spricht ein paar Worte in einer unbekannten Sprache. Feuer stiebt hervor und verbrennt die restlichen Untoten zu Asche.
+Hagel erlaubt sich ein minimales Lächeln. „Nun, wo wir dieses Ärgernis be­seitigt haben, sollten wir mit dem amüsanten Teil beginnen. Zeigt mir, wo sich dieser Riss von euch befindet.“
+Neuer Ort:
+Verheerender Riss (27) (E-6)
+Party-Errungenschaft:
+Steinbrechers Rauchfass
+Belohnung
++1 Wohlstand

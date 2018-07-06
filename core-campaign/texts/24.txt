@@ -1,0 +1,24 @@
+Szenario 24 (C-6): Die Echokammer 
+Verbindungen: Bergpass - #16
+Voraussetzungen: Keine
+Ziel: Öffnet alle Türen (Nebelplättchen)
+Einführung:
+Ihr tretet in die Höhlen ein, dem Ruf einer Stimme in euren Köpfen folgend. Sie ist verlockend, mit einem Hauch von Gefahr. Ihr könntet in eine Falle laufen wie ahnungslose Schafe in einem düsteren Spiel. Die Stimme bemerkt eure Ängste und spricht euch zuversichtlich zu. Alles wird gut ausgehen, wenn ihr nur weiter in die Dunkelheit herabsteigt.
+Gegen jede Vernunft schreitet ihr voran.
+In wiederkehrenden Bildern und Gedanken versuchte die Stimme, sich euch zu erklären. Sie wurde von einer mächtigen Kraft tief in der Erde eingesperrt. Sie braucht eure Hilfe, um heraus zu gelangen. Ihr fragt neugierig, wer sie denn eingesperrt habe und warum, doch bei dem Gedanken verstummt sie.
+Und diese Stille ist tief in der Dunkelheit beunruhigend. Ihr habt völlig die Orientierung verloren, bis die Stimme zurückkehrt euch die weitere Richtung vorgibt, ohne jedoch eure Fragen zu beantworten.
+Sie zeigt euch Bilder der Monster, die es bewachen. Und sie erklärte euch ihren Plan: Wenn ihr in alle Räume in ihrem Verlies verbinden würdet, könnte sie wieder schwingen und er­neut eine Gestalt annehmen, wodurch sie ihre Bewacher vertreiben könnte.
+Die Stimme sagt, dass ihr bald da seid. Bereitet euch vor.
+Epilog:
+Nachdem der letzte Nebel verschwunden ist, setzt sofort ein Wind in diesen Kammern ein und strömt in einem Kreislauf durch sie hindurch. Seine Geschwindigkeit nimmt zu; er entwickelt sich in wenigen Sekunden von einer Brise zu einem Zyklon.
+Und dann könnt ihr die Stimme hören, ein Geräusch im Wind, laut und furchtbar. Sie schreit auf, und alle Monster werden zerstört - vom Sturm zerrissen und ver­weht.
+„Danke, meine Freunde. Es ist gut, diese Plagen endlich los zu sein.“ Die Stimme knarrt in euren Knochen, als sie spricht. „Und da dies nun erle­digt ist, bitte ich erneut um eure Hilfe. Ich sitze immer noch hier fest, ein Gefangener des Windes. Um eine körperlichere Form anzunehmen und die­ses Land zu verlassen, benötige ich die Gefäße meiner Macht zurück.“
+Ihr fallt auf die Knie, sobald das Geräusch ausklingt, während euer Kopf noch dröhnt. Die Stimme hat gerade eure Gegner zerstört, als ob sie nichts wären. Ihr könnt euch nicht vorstellen, was sie an­richten könnte, wenn man ihr mehr Macht gäbe.
+„Seid unbesorgt. Mich verlangt es nicht, euer Land zu verwüsten. Ich will nur fort, frei sein und unbeschwert von dieser Ebene. Ich zeige euch nun den Ort, an dem ihr das erste Gefäß finden könnt. Sie wollten es von mir ver­stecken, doch ich sehe es, als ob es direkt in diesen Hallen wäre.“
+„Bitte, bringt es mir.“
+Als Zeichen guten Willens geleitet die Stimme euch zurück zum Eingang der Höhle. Weit entfernt von ihrem Einfluss müsst ihr eine Entscheidung treffen. Ihr könnt ihren Wünschen folgen (32), oder ihr könnt versuchen zu ergründen, was diese Stimme wirklich ist, anstatt mit Mächten zu spielen, die ihr nicht versteht. (30)
+Neue Orte:
+Der Schrein der Tiefen (30) (N-15)
+Der Kränkelnde Wald (32) (L-11)
+Party-Errungenschaft:
+Der Befehl der Stimme

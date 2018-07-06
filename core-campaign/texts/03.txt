@@ -1,0 +1,41 @@
+3: Das Inox-Lager
+
+Voraussetzungen: The Merchant Flees (Global) ist NICHT ABGESCHLOSSEN
+Ziel: Töte fünf mal so viele Gegner wie Spielercharaktere anwesend sind.
+Links: Keine
+
+INTRODUCTION:
+Diese Händlerin will also ein Exempel statuieren an irgendwelchen Wegelagerern, die Karawanen ausplündern? Klingt eigentlich ganz vernünftig. Für genug Geld kann aber auch so ziemlich alles vernünftig klingen.
+
+Du betrittst den Dolchwald und machst dich auf die Suche nach dem Lager mithilfe der groben Karte, die Jekserah Dir überlassen hat. Es ist zwar gut versteckt, aber dank der Orientierungshilfen auf der Papyrus-Karte findest du auf einer Waldlichtung die eng aneinander geschmiegten Hütten der Inox. Jetzt bleibt dir nur noch, da reinzugehen und das Exempel zu statuieren.
+
+SPECIAL RULES:
+
+Bis Tür (1) geöffnet wird, erscheint am Ende jeder ungeraden Spielrunde ein Inox Guard bei (a) bei zwei Spielercharakteren, oder zu Beginn jeder Runde bei drei oder vier Spielercharakteren.
+
+—-1—-
+Du rückst vor in die Höhle im hinteren Bereich, wo du dich plötzlich einem halben Dutzend weinender, schreiender Inox-Kinder gegenüber findest. Dir bleibt aber nicht viel Gelegenheit zu überlegen, welche Implikationen diese überraschende Wendung mit sich bringt, denn sofort richten mehrere Inox-Bogenschützen ihre Waffen auf Dich. Du hast keine andere Wahl als weiterzukämpfen!
+
+CONCLUSION:
+Während Du durch den Wald rennst und versuchst, den Geruch von brennendem Fleisch zu vergessen, hast du jetzt mehr als genug Möglichkeit, deine Taten zu überdenken.
+
+Wie Du über das, was Du getan hast, denkst, muss man dir ansehen können, als Du dich wieder mit Jekserah triffst, dieses mal in ihrem prunkvollen Anwesen. Sie reicht dir den versprochenen Sack Goldmünzen mit einem Stirnrunzeln.
+
+„Sie waren Diebe und Mörder“, sagt sie ausdruckslos. „Sie haben verdient, was Ihr mit ihnen getan habt. Und das ist alles, was ich dazu sagen werde. Ich habe einen weiteren Auftrag, den Ich von Euch erledigt sehen möchte. Ich benötige einen Diamanten von beachtlicher Größe für einen Kunden, aber in der Stadt kann ich keinen auftreiben.
+
+„Es gibt jedoch eine Diamantenmine in den südlichen Bergen, die seit langem dem Wildwuchs überlassen werden musste. Ich habe gehört, dass sie mittlerweile von Geschmeißlingen („vermlings“) nur so wimmelt, wohinter zweifelsohne irgendein intelligenterer Drahtzieher steckt. Wenn Ihr euch einen Weg in die Mine kämpft und dort den größten Diamanten, den Ihr ausfindig machen könnt, schnappt, verspreche ich Euch eine beachtliche Belohnung (Symbol Sticker 9). 
+
+„Und jetzt lasst mich in Frieden.“ Die beiden Inox-Leibwächter von Jekserah treten vor und legen nahe, das Anwesen zu verlassen.
+
+Als Du über diese neue Aufgabe nachdenkst, hörst du draußen eine leise Stimme hinter Dir: „Sie macht das nicht für den Profit, weißt du?“
+
+Du drehst dich um und siehst eine weibliche Quatryl, die aus einer dunklen Gasse neben Jekserahs Haus tritt. Sie ist in eine schwarze Lederrüstung gehüllt und hält gut sichtbar ein Gerät, in dem lauter Zahnräder surren und an dessen Spitze sich ein zylindrisches Stück Metall befindet, das mit einer Röhre an dem Kasten angebracht ist. 
+
+„Argeise, von der Stadtwache“, stellt sie sich vor. „Ich weiß, ich sehe nicht gerade danach aus, aber wenn bei irgendjemandem der Schein trügt, dann wohl bei dieser Valrath-Lady, mit der Ihr gerade gesprochen habt. Sie ist sicherlich eine Händlerin, aber sie hat auch etwas weitaus Finstereres im Sinn.
+
+„Sie hat versucht, das Militär in Düsterhafen umzustürzen, so lange ich hier schon bin, und wir sind alle sehr gespannt, was diesmal ihr großer Plan ist.
+
+„Hör mal zu, Du kannst ganz nach ihrer Pfeife tanzen, wie ein gutes kleines Hündchen, aber wenn du lieber tatsächlich dieser Stadt dabei helfen möchtest, den Frieden aufrechtzuerhalten und nicht von der Wildnis verschluckt zu werden, habe ich eine andere Idee. Wir werden den Plänen von Jekserah auf den Grund gehen und öffentlich machen, wer sie wirklich ist.“ (platziere Sticker 8, C-18).
+
+Party Achievements: Jekserah’s Plans
+Rewards: 15 Gold each, + 1 Wohlstand
